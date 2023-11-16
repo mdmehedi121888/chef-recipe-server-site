@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "Ahmed Hossain",
+    "image_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Ahmed-Hossain-top-10-chefs-in-Bangladesh.jpg",
+    "number_of_recipes": 50,
+    "likes_count": 50000,
+    "years_of_experience": 15,
+    "short_bio": "Gourmet expert Ahmed Hossain, a nature significant name is placed at first position among top 10 chefs in Bangladesh. He was conceived in a riverside town of Bangladesh. After his secondary school, concentrated on accommodation administration at National Hotel and Tourism Training Institute, Dhaka. In 2006 Chef Ahmed began consultancy with Dhaka Regency unique task of kitchen organizer following 6 months at last joined as Executive Chef and worked there till 31st July, 2010.",
+    "popular_recipe": {
+      "recipe_name": "Dhaka Biryani",
+      "recipe_url": "https://www.tbsnews.net/sites/default/files/styles/big_3/public/images/2020/09/25/dhaka-kachchi-tbs.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Manik Miah",
+    "image_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/MAnik-Miah-top-10-chefs-in-Bangladesh.jpg",
+    "number_of_recipes": 75,
+    "likes_count": 60000,
+    "years_of_experience": 20,
+    "short_bio": "Manik Miah, the head culinary specialist from the Windsor Tiffin eatery in Burbage, contributed in the finals of the Curry Chef of the Year competition sorted out by the Bangladesh Caterers Association. The test saw 30 culinary specialists from over the UK showcased their aptitudes at Northampton College by making a mark dish in only 45 minutes. He picked a chicken dish, a classical korma – desi khas korma – alongside mint pilaw rice and a vegetable side dish, vegetable salan. He is now considered at the seventh most talented chef among top famous ten chefs in Bangladesh.",
+    "popular_recipe": {
+      "recipe_name": "Royal Korma",
+      "recipe_url": "https://pics.craiyon.com/2023-11-06/1018b1725d434cbe97beead18cc35e5a.webp"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Asad Latif",
+    "image_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Chef-Asad-Latif-top-ten-chefs-in-Bangladesh-768x576.jpg",
+    "number_of_recipes": 40,
+    "likes_count": 45000,
+    "years_of_experience": 12,
+    "short_bio": "Gourmet expert Asad is a masterful Chef from Pakistan who gives grand cooking formulas on Lazzat with Asad on Metro One. He is the new master specialist that will undoubtedly stay viewers adhere to their TVs, regardless of whether they get joy from cooking or not. For this work on Bangladeshi food he is places in the list of top 10 chefs in Bangladesh, although currently he is working in Pakistan.  Not just he educates the most delightful dishes from Bangladesh. He likewise entertains gatherings of people with prompt answers for cooking tragedies.",
+    "popular_recipe": {
+      "recipe_name": "Spicy Mango Tango",
+      "recipe_url": "https://cloudinary-cdn.whisk.com/image/upload/g_auto,c_fill,q_60,f_auto,h_630,w_1200/v1691551479/recipe/60419c7aafbbae1f0c990c2c19896607.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Kabir",
+    "image_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-kabir-famous-bangladeshi-chefs.jpg",
+    "number_of_recipes": 60,
+    "likes_count": 55000,
+    "years_of_experience": 18,
+    "short_bio": "iddiqua Kabir (May 7, 1931 – January 31, 2012) was a Bangladeshi nutritionist, scholastic, cookbook writer andcooking show TV have. A teacher, Kabir facilitated and visitor featured in various network shows featuringBangladeshi food, including Siddiqua Kabir’s Recipe on NTV Bangla . Kabir got honors from the culinary and media businesses, including the Sheltech Award, which was given to her in 2009. Her countless contributions for Bangladesh food, she is ranked at fourth position among top 10 chefs in Bangladesh.",
+    "popular_recipe": {
+      "recipe_name": "Fuska Delight",
+      "recipe_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsTL6UxW3xdpepET5YSewl-De5k3Su7jywMXOSQtsiyQ&s"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Kiran Jethwa",
+    "image_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/KIRAN-JETHWA-top-chefs-in-Bangladesh.jpg",
+    "number_of_recipes": 55,
+    "likes_count": 58000,
+    "years_of_experience": 16,
+    "short_bio": "This time, the Fearless Chef, grows his radar and ventures to every part of the length of Bangladesh, one of the world’s top fish creating countries, and finds that the nation’s angling industry is as various as it can be unsafe. Chef Kiran is the fifth most liked chef among popular top 10 chefs in Bangladesh.",
+    "popular_recipe": {
+      "recipe_name": "Mango Lassi Popsicles",
+      "recipe_url": "https://bakewithshivesh.com/wp-content/uploads/2021/04/image-2-scaled.jpg"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Tony",
+    "image_url": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/chef-Tony-top-chefs-in-Bangladesh.jpg",
+    "number_of_recipes": 70,
+    "likes_count": 62000,
+    "years_of_experience": 22,
+    "short_bio": "Culinary expert Tony has a huge name is Bangladesh that is the reason many people are familiar with his abilities. Chef Tony is places at sixth position among top 10 chefs in Bangladesh. He is notable around the globe for his mixed cooking, in 1998 he got to be one of the “Main 10 Chefs of the World” and in 1992 he turned into the “Culinary expert of The Year” in Pacific Papuanew Guinea. Culinary specialist Tony set up a kitchen extend in portability with his accomplice, which is serving nourishment for some enormous occasions. So he require an adaptable focal kitchen plan and loads of dispensable silverware supply. Concerning us, we have finished a wedding eatery extend in Romania years prior, that is likewise an abnormal state eatery with certain scale. Apart, for the venture Chef Tony is going to do, their kitchen venture is higher necessity in adaptability and versatility, furthermore without within and outside environment impediment.",
+    "popular_recipe": {
+      "recipe_name": "Green Curry Bliss",
+      "recipe_url": "https://img.freepik.com/free-photo/green-curry-bowl-with-lime-red-onion-lemon-grass-garlic-kaffir-lime-leaves_1150-21362.jpg"
+    }
+  }
+]
